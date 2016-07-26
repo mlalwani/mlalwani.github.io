@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-THEME = 'pelican-themes/new-bootstrap2'
+THEME = 'pelican-themes/bootstrap'
 
 # BOOTSTRAP_THEME = 'simplex'
 
