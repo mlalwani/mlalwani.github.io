@@ -19,7 +19,9 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-THEME = 'pelican-themes/simple-bootstrap'
+THEME = 'pelican-themes/new-bootstrap2'
+
+# BOOTSTRAP_THEME = 'simplex'
 
 # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -28,7 +30,7 @@ THEME = 'pelican-themes/simple-bootstrap'
 #         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-LINKS = (('GitHub', 'https://github.com/mlalwani'),
+SOCIAL = (('GitHub', 'https://github.com/mlalwani'),
           ('LinkedIn', 'https://www.linkedin.com/in/makoto-lalwani-5b924095'),)
 
 DEFAULT_PAGINATION = False
